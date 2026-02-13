@@ -34,15 +34,15 @@ This project demonstrates clean architecture, OTP validation logic, expiry handl
 # 🏗 Architecture
 
 src/
-├── screens/ → UI Components
+├── screens/ 
 │ ├── LoginScreen.tsx
 │ ├── OtpScreen.tsx
 │ └── SessionScreen.tsx
 │
-├── services/ → Business Logic
+├── services/ 
 │ └── otpManager.ts
 │
-├── hooks/ → Reusable Logic
+├── hooks/ 
 │ └── useSessionTimer.ts
 
 
