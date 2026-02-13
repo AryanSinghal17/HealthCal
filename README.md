@@ -95,4 +95,4 @@ After 3 failures:
 Validation blocked until resend.
 
 ## before Installation
-read Installation document
+Read Installation document
