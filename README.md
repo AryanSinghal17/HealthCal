@@ -93,3 +93,6 @@ attemptsLeft--
 User sees remaining attempts.
 After 3 failures:
 Validation blocked until resend.
+
+## before Installation
+read Installation document
