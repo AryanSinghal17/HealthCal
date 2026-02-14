@@ -210,6 +210,7 @@ The application will build and launch in emulator.
 Always follow this order:
 1️⃣ Start Metro
 npx react-native start
+
 2️⃣ Start Emulator
 3️⃣ Run App
 npx react-native run-android
